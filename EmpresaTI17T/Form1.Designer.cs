@@ -1,6 +1,6 @@
 ﻿namespace EmpresaTI17T
 {
-    partial class Form1
+    partial class empresa
     {
         /// <summary>
         /// Variável de designer necessária.

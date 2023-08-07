@@ -1,0 +1,10 @@
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.AssemblyReference.cache
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.SuggestedBindingRedirects.cache
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.atualizar.resources
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.cadastrar.resources
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Consultar.resources
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Excluir.resources
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.empresa.resources
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.Properties.Resources.resources
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.GenerateResource.cache
+C:\Users\eduardo.csilva52\source\repos\EmpresaTI17T\EmpresaTI17T\obj\Debug\EmpresaTI17T.csproj.CoreCompileInputs.cache

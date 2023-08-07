@@ -110,12 +110,15 @@
     <Compile Include="cadastrar.Designer.cs">
       <DependentUpon>cadastrar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
     <Compile Include="Consultar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Consultar.Designer.cs">
       <DependentUpon>Consultar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Consutarr.cs" />
+    <Compile Include="DAO.cs" />
     <Compile Include="Excluir.cs">
       <SubType>Form</SubType>
     </Compile>
